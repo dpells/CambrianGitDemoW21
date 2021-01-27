@@ -20,3 +20,9 @@ Xiangxu check this serverless project i'm building
 https://bbyk32x3w5.execute-api.ap-south-1.amazonaws.com/api/
 It scans for vulnerablity in website and cypher suite security.
 ---------------------------------------------------------------------------------
+
+January 27, 2021
+
+Hello Everyone!! I am Sujith :) . My favourite animal is dog. I am fairly new to development, but by the end of this semester I want to develop my software developing skills to expert level.
+
+-------------------------------------------------------------------------------------
