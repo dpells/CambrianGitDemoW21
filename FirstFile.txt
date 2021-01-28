@@ -22,6 +22,10 @@ It scans for vulnerablity in website and cypher suite security.
 ---------------------------------------------------------------------------------
 
 January 27, 2021
+
+Hello Everyone!! I am Sujith :) . My favourite animal is dog. I am fairly new to development, but by the end of this semester I want to develop my software developing skills to expert level.
+
+-------------------------------------------------------------------------------------
 Hi! This is Charulatha Vijayakumar. My favourite animal is tiger!
 In this semester, I'm very curious to learn and be able to develop Android applications with smooth user experience and data flow !!
 
